@@ -1,0 +1,30 @@
+Participant,Message,Sentiment,Mood Score
+Luca,"Ciao, come va oggi?",0.0,0.0
+Luca,"Oh, mi dispiace. Cosa c'è che non va?",-0.5267,-0.5267
+Luca,"Eh, capita. Vuoi parlarne?",0.0772,-0.44949999999999996
+Luca,"Non devi forzarti, se non hai voglia di parlare.",-0.0572,-0.5066999999999999
+Luca,Capisco. Ma ogni tanto bisogna anche prendere una pausa e non pensarci troppo.,0.0,-0.5066999999999999
+Luca,"Eh, magari stai solo attraversando un periodo difficile. Passerà, vedrai.",-0.3612,-0.8678999999999999
+Luca,"Mi dispiace sentire così. Se vuoi parlare più a lungo, io ci sono.",0.3612,-0.5066999999999999
+Luca,"Non ti preoccupare, sono qui. Non devi affrontare tutto da sola.",0.3412,-0.16549999999999992
+Luca,Capisco. Devi cercare di non essere troppo dura con te stessa.,-0.1027,-0.26819999999999994
+Luca,"Non è facile, lo so. Ma ogni piccolo passo conta. Non devi per forza risolvere tutto subito.",-0.3487,-0.6169
+Luca,"Non sei sola, ti ricordi? Non devi farlo da sola, ok?",0.25,-0.3669
+Luca,"Lo capisco, ma è normale sentirsi così. Le cose miglioreranno, ne sono sicuro.",0.8765,0.5095999999999999
+Luca,"Fidati, la luce arriverà. Anche se adesso non la vedi, arriverà.",0.5106,1.0202
+Luca,"Non sei persa, credimi. La strada è difficile, ma ci sei ancora, e quello conta.",-0.0693,0.9509
+Sara,"Oi, niente di speciale, abbastanza stanca.",0.0938,0.0938
+Sara,"Nulla, solita routine. Mi sento un po' giù, niente sembra andare come voglio.",0.0772,0.17099999999999999
+Sara,Non so nemmeno da dove cominciare… forse è solo una fase.,0.0,0.17099999999999999
+Sara,"Eh, ma non posso nemmeno ignorarlo. Sto cercando di far finta di nulla, ma non funziona.",0.2651,0.4361
+Sara,"Non so, Luca… tutto mi sembra un po' inutile ultimamente.",-0.3626,0.07350000000000001
+Sara,Spero. Ma non è così facile per me. Mi sento come se stessi solo rallentando tutto.,0.2711,0.3446
+Sara,Non voglio che tu ti preoccupi per me. È solo che non vedo via d'uscita a volte.,-0.4805,-0.13589999999999997
+Sara,"È difficile chiedere aiuto, lo sai? Mi sento come se stessi sempre facendo più danni che altro.",-0.2006,-0.33649999999999997
+Sara,"Non so più cosa fare, ogni cosa mi sembra pesante.",0.0,-0.33649999999999997
+Sara,"Ci provo, ma non è facile. Mi sembra che tutto stia andando storto.",-0.8052,-1.1417
+Sara,"Non so nemmeno se ho la forza per fare quei piccoli passi, Luca.",0.4939,-0.6477999999999999
+Sara,"Lo so, ma a volte mi sembra che non ci sia nessuno che capisca davvero come mi sento.",-0.4215,-1.0693
+Sara,"Spero che tu abbia ragione, davvero. Ma non so se ce la faccio a vedere la luce in fondo al tunnel.",0.2382,-0.8311
+Sara,"Non sono così sicura. Mi sento un po' persa, Luca.",-0.5393,-1.3704
+Sara,"Non lo so, è dura da credere. Ma grazie per esserci, mi fa piacere che tu ci sia.",0.8401,-0.5303000000000001
