@@ -2,7 +2,7 @@
 <p>Simple app to analize the trend of the humor of the users in a Whatsapp chat. Interesting topic in order to analize the quality of the interaction beetween users
 mabe for custumer services purpuse.</p>
 <h1>Overwiev</h1>
-<img width="1108" alt="AppPreview" src="https://github.com/user-attachments/assets/1b3cfacd-c940-460b-8e48-a892b50b3a63" />
+<img width="1099" alt="AppPreview" src="https://github.com/user-attachments/assets/a6c1dde7-82cc-4352-b09f-14d5f7518094" />
 <h2>Main features</h2>
 <ul>
   <li>use regex to get the data</li>
