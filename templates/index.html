@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>📊 Chat mood analysis</title>
+    <title>📊 Chat Mood Analysis</title>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
 </head>
@@ -12,7 +12,7 @@
         <h2 class="text-center">📊 Chat mood analysis</h2>
         <div id="mood-graph" class="my-4"></div>
         
-        <h3 class="mt-5">📌 Best and Wrost messages</h3>
+        <h3 class="mt-5">📌 Best and Worst Messages</h3>
         <div id="best-worst-messages" class="my-3"></div>
     </div>
 
@@ -32,7 +32,7 @@
                     });
 
                     Plotly.newPlot("mood-graph", traces, {
-                        title: "Mood graph",
+                        title: "Mood Graph",
                         xaxis: { title: "Number of message" },
                         yaxis: { title: "Mood Score" }
                     });
@@ -47,8 +47,8 @@
                                     <h5>${participant}</h5>
                                 </div>
                                 <div class="card-body">
-                                    <p>🟢 <strong>Best Message:</strong> "${maxMsg}"</p>
-                                    <p>🔴 <strong>Worst Message:</strong> "${minMsg}"</p>
+                                    <p>🟢 <strong>Most Positive Message:</strong> "${maxMsg}"</p>
+                                    <p>🔴 <strong>Most Negative Message:</strong> "${minMsg}"</p>
                                 </div>
                             </div>
                         `;
