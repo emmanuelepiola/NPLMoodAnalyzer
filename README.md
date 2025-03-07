@@ -1,2 +1,2 @@
 # NPLMoodAnalyzer
-NLPMoodAnalyzer
+Whatsapp mood analisys app based on the NPL library Vader.
